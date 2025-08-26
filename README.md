@@ -3,6 +3,10 @@
 ![Afiş](https://media.discordapp.net/attachments/1376139007594991719/1409803167218270208/00afc1209656435.67cc349a5ab20.webp?ex=68aeb503&is=68ad6383&hm=28c47b00453b39e8839bb406d0ee4d267ca19c00fe2e377a83324e90ba7ea2a7&=&format=webp&width=688&height=229)
 
 
+## Satış Kiralama
+**Bot Kiralama Bot V14 Altyapı Satışı İçin https://wapers.netlify.app/**
+
+
 ## ✨ Proje Hakkında
 v14 YT Yetkili Alım Botu, Discord sunucularında **otomatik yetki yönetimi** sağlayan gelişmiş bir bottur.  
 Bot, **config üzerinden ayarlanan yetki sınırlarına göre** kullanıcıların rollerini ve izinlerini otomatik olarak düzenler.  
