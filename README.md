@@ -25,7 +25,16 @@ Bot, **config üzerinden ayarlanan yetki sınırlarına göre** kullanıcıları
 
 ## ⚙️ Kurulum
 
-```bash
+Öncelik olarak `index.js` dosyasının en altına inin. Oradaki:
+
+```js
+client.login("DİSCORD BOT TOKEN");
+satırına kendi Discord bot tokeninizi ekleyin. Tokeni nasıl alacağınızı bilmeyenler için buradan bakabilirler. https://www.youtube.com/watch?v=S58wYTFru9A
+
+Sonrasında config.json dosyasındaki bilgileri kendinize göre ayarlayın.
+
 git clone https://github.com/wapersh/v14-yt-al-m.git
 cd v14-yt-al-m
 npm install
+node index.js
+
